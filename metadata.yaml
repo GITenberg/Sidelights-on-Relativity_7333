@@ -1,0 +1,24 @@
+_repo: Sidelights-on-Relativity_7333
+alternative_title: ' Äther und Relativitäts-Theorie + Geometrie und Erfahrung  Englisch'
+creator:
+  author:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: http://en.wikipedia.org/wiki/Albert_Einstein
+description: 1. Ether and relativity. -- II. Geometry and experience.
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7333'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relativity (Physics)'
+- !lcc 'QC'
+title: Sidelights on Relativity
+url: http://www.gutenberg.org/ebooks/7333
